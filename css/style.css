@@ -84,3 +84,37 @@ nav {
     background-color: #228B22;
     margin: auto;
 }
+#section-footer-1 {
+    background-color: #23272A;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid white;
+}
+#div-pink-footer {
+    flex-grow: 1.5;
+    border: 1px dashed black;
+    background-color: #F08080;
+}
+.col-footer {
+    flex-grow: 1;
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+    background-color: #20B2AA;
+    border-left: 1px dashed white;
+    border-right: 1px dashed white;
+}
+#section-footer-2 {
+    background-color: #23272A;
+    padding-top: 25px;
+}
+#end-footer {
+    background-color: #7FFFD4;
+    max-width: 980px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    min-height: 100px;
+}
+.button {
+    
+}
