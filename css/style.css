@@ -115,6 +115,6 @@ nav {
     flex-direction: row;
     min-height: 100px;
 }
-.button {
-    
+.rectangle {
+    justify-content: space-between;
 }
